@@ -1,0 +1,28 @@
+{
+  "_base": "https://raw.githubusercontent.com/heavy-lifting/moog/main/",
+  "grem": [
+    "grem/We Want Civilization [2021-10-19 143512].wav",
+    "grem/We Want Civilization [2021-10-19 143615].wav",
+    "grem/We Want Civilization [2021-10-19 143658].wav",
+    "grem/We Want Civilization [2021-10-19 143820].wav",
+    "grem/We Want Civilization [2021-10-19 143900].wav"
+  ],
+  "obey": [
+    "obey/obey.wav",
+  ],
+  "skel": [
+    "skel/00 not nice.wav",
+    "skel/01 wimp scientist.wav",
+    "skel/02 boob.wav",
+    "skel/03 wimplash.wav",
+    "skel/04 pitiful pinheads.wav",
+    "skel/05 goat.wav",
+    "skel/06 bunglers.wav",
+    "skel/07 gnomes.wav",
+    "skel/08 i could write a book.wav",
+    "skel/09 mumbling.wav",
+    "skel/10 rumbling.wav",
+    "skel/11 muscle boy.wav",
+    "skel/12 king rendar.wav",
+  ]
+}
